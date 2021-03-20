@@ -1,0 +1,5 @@
+*.bak
+*.diff
+*.rej
+*.orig
+*.code-workspace
